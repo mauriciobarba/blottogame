@@ -1,1 +1,1 @@
-This is part of my solution to a Jane Street puzzle.
+This is a genetic algorithm to find an optimal solution to an instance of the game [Blotto](https://en.wikipedia.org/wiki/Blotto_game) where there are 10 battlefields, 100 troops and if one player wins 3 consecutive battles, then he wins the remaining battles.
